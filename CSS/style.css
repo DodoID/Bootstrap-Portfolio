@@ -25,7 +25,6 @@ body {
   
 
   .jumboCopy {
-	 
     color:black;
     text-align: left;
   }
@@ -44,6 +43,8 @@ body {
 .card:hover {
     box-shadow: 0 8px 26px rgba(0, 0, 0, 0.3); 
 }
+
+
 
 .text-overlay {
     position: absolute;

@@ -1,0 +1,38 @@
+body {
+    background-color: cornflowerblue;
+    padding-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .navbar {
+    background-color: blueviolet;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: black;
+  }
+  
+  .navbar-nav {
+	
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  .navbar-brand img {
+    padding-right: 15px;
+    width: 65px;
+  }
+  .nav-item {
+	
+    margin: 0px 15px;
+  }
+  
+  /* Jumbotron  */
+
+  .jumboCopy {
+	 
+    color:black;
+    text-align: left;
+  }
+
+.bg-custom {
+    background-color: #E44C77;
+}
